@@ -1,90 +1,123 @@
-<h1 align="center">🚀 Bryan Palacio Rubinho</h1>
+<!-- HEADER ANIMADO -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Bryan%20Palacio%20Rubinho&fontSize=35&fontColor=ffffff&animation=fadeIn"/>
+</p>
+
+<h2 align="center">💻 Backend Developer in Progress</h2>
 
 <p align="center">
-Desenvolvedor focado em Backend | Java | JavaScript | MySQL
+Building real systems • Solving real problems • Focused on backend
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/bryan-pal%C3%A1cio-rubinho-424b991b8/">LinkedIn</a> •
-<a href="mailto:devrubinho@gmail.com">Email</a>
+<a href="https://github.com/bryanrubinho">
+<img src="https://img.shields.io/github/followers/bryanrubinho?style=social"/>
+</a>
+<a href="https://www.linkedin.com/in/bryan-pal%C3%A1cio-rubinho-424b991b8/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge"/>
+</a>
+<a href="mailto:devrubinho@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge"/>
+</a>
 </p>
 
 ---
 
-## 💻 Sobre o Projeto
+## 🧠 ABOUT
 
-Este repositório contém meu portfólio pessoal como desenvolvedor, com foco em backend e construção de aplicações web.
+Backend-oriented developer focused on building scalable and organized systems.  
+Strong foundation in programming logic, web development and data manipulation.
 
-O objetivo é demonstrar na prática minhas habilidades em desenvolvimento, organização de código e resolução de problemas, através de projetos reais.
-
----
-
-## 🚀 Tecnologias Utilizadas
-
-- Java
-- JavaScript
-- HTML5
-- CSS3
-- MySQL
+Currently studying **Software Engineering**, with practical experience through real-world projects.
 
 ---
 
-## 📂 Projetos
+## ⚙️ TECH STACK
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,js,html,css,mysql,git,github,vscode"/>
+</p>
+
+---
+
+## 🚀 FEATURED PROJECTS
 
 ### 🔹 Match Eletrolítico
-Jogo da memória interativo desenvolvido com HTML, CSS e JavaScript.
+Interactive memory game with multiplayer system and dynamic scoring.
 
-**Funcionalidades:**
-- Sistema de dois jogadores
-- Validação de nomes
-- Pontuação dinâmica (+10 por acerto)
-- Armazenamento com LocalStorage
-- Interface responsiva com Bootstrap
+✔ Two players  
+✔ Score system (+10 per match)  
+✔ Name validation  
+✔ LocalStorage  
+✔ Responsive UI (Bootstrap)
 
-🔗 Acesse:  
+🔗 **Live Demo:**  
 https://bryanrubinho.github.io/Match-Eletrolitico/
 
 ---
 
 ### 🔹 WAAP (Wanna Adopt a Pet)
-Sistema web de adoção de animais desenvolvido como projeto acadêmico.
+Web platform for animal adoption with frontend and backend integration.
 
-**Tecnologias utilizadas:**
-- PHP
-- HTML
-- CSS
-- JavaScript
+✔ User interaction system  
+✔ Data handling  
+✔ Real application scenario  
 
----
-
-## 📄 Currículo
-
-📥 [Clique aqui para baixar meu currículo](./assets/curriculo_bryan.pdf)
+🛠 Stack: PHP, HTML, CSS, JavaScript
 
 ---
 
-## 📈 Objetivo
+## 📄 RESUME
 
-Busco oportunidades como desenvolvedor backend ou suporte técnico (Help Desk), onde eu possa evoluir profissionalmente e contribuir com soluções eficientes.
-
----
-
-## 📬 Contato
-
-- Email: devrubinho@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/bryan-pal%C3%A1cio-rubinho-424b991b8/
+<p align="center">
+<a href="./assets/curriculo_bryan.pdf">
+<img src="https://img.shields.io/badge/Download%20CV-000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+</a>
+</p>
 
 ---
 
-## ⚡ Diferenciais
+## 🎯 OBJECTIVE
 
-- Foco em backend e lógica de programação  
-- Experiência com projetos reais  
-- Organização de código e boas práticas  
-- Facilidade de aprendizado e adaptação  
+Seeking opportunities as:
+
+- Backend Developer (Junior)
+- IT Support / Help Desk
+
+Focused on growth, performance and delivering efficient solutions.
+
+---
+
+## 📊 GITHUB ANALYTICS
+
+<p align="center">
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=bryanrubinho&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryanrubinho&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=bryanrubinho&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## ⚡ HIGHLIGHTS
+
+✔ Strong programming logic  
+✔ Clean and organized code  
+✔ Backend-focused mindset  
+✔ Fast learning and adaptability  
+✔ Real project experience  
+
+---
+
+## 📬 CONTACT
+
+📧 devrubinho@gmail.com  
+🔗 linkedin.com/in/bryan-palácio-rubinho-424b991b8  
 
 ---
 
 <p align="center">
-Feito por Bryan Palacio Rubinho
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
 </p>
